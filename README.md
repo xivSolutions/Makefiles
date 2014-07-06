@@ -3,7 +3,7 @@ Example Makefiles
 
 Examples and Templates for Using the Make Utility with C. 
 
-The examples in this repo are discissed in a blog post at XXXX
+The examples in this repo are discissed in a blog post at [Creating A Basic Make File for Compiling C Code](http://typecastexception.com/post/2014/07/06/Creating-A-Basic-Make-File-for-Compiling-C-Code.aspx)
 
 Simple Example
 --------------
