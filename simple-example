@@ -1,0 +1,4 @@
+# Compile an executable named yourProgram from yourProgram.c
+# make sure there is a <tab> character on the indented line!
+all: yourProgram.c
+	gcc -g -Wall -o yourProgram yourProgram.c
