@@ -5,17 +5,17 @@ Examples and Templates for Using the Make Utility with C.
 
 The examples in this repo are discissed in a blog post at [Creating A Basic Make File for Compiling C Code](http://typecastexception.com/post/2014/07/06/Creating-A-Basic-Make-File-for-Compiling-C-Code.aspx)
 
-Simple Example
+simple-example
 --------------
 
 The most basic example for compiling a silly hello world application. 
 
-App-Specific Example
+app-specific-example
 --------------------
 
 A basic template to use for creating makefiles for your specfic applciation(s). Simply swap your application name where `TARGET` is assigned the value `hello` in the example.
 
-Require Target Name Example
+require-target-example
 ---------------------------
 
 A special case for setting up a general makefile for use with varying single-file projects. 
